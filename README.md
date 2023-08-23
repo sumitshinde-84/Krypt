@@ -31,7 +31,7 @@ Visit the live demo of the Krypt [here]([http://sumitshinde-84.github.io/shoping
 To run the Shopping Site locally, follow these steps:
 
 1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd shoping-site`
+2. Navigate to the project directory: `cd client`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your web browser and access the application at `http://localhost:3000`
